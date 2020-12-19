@@ -1,0 +1,47 @@
+<keymap version="1" name="misaka-network-default" parent="$default">
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+</keymap>
