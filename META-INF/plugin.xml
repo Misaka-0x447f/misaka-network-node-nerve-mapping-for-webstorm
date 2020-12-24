@@ -1,7 +1,7 @@
 <idea-plugin>
   <name>Misaka Network Node Nerve Mapping for Webstorm</name>
   <id>org.misaka.plugins.webstorm-keymap</id>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <idea-version since-build="203.5981"/>
   <vendor>447f.misaka</vendor>
   <category>Keymap</category>
