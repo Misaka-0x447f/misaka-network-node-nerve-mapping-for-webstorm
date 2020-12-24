@@ -6,8 +6,7 @@
   <vendor>447f.misaka</vendor>
   <category>Keymap</category>
   <description>
-    This plugin may help you connect to Webstorm via neural link, in case you are a misaka-node or misaka-node-like.
-    Not supporting MacOS.
+    A keymap for helping improve efficiency, mainly by binding arrow keys to moving between words, not chars.
     http://misaka.org
   </description>
   <depends>com.intellij.modules.lang</depends>
