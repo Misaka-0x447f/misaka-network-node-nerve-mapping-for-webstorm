@@ -9,6 +9,7 @@
   <idea-version since-build="191"/>
   <vendor>447f.misaka</vendor>
   <category>Keymap</category>
+  <depends>com.intellij.modules.lang</depends>
   <description>
     A keymap for helping improve efficiency, mainly by binding arrow keys to moving between words, not chars.
     http://misaka.org
