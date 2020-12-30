@@ -1,15 +1,14 @@
 <idea-plugin>
   <name>Misaka Network Node Nerve Mapping for Webstorm</name>
   <id>org.misaka.plugins.webstorm-keymap</id>
-  <version>1.0.1</version>
-  <idea-version since-build="203.5981"/>
+  <version>1.1.0</version>
+  <idea-version since-build="191"/>
   <vendor>447f.misaka</vendor>
   <category>Keymap</category>
   <description>
     A keymap for helping improve efficiency, mainly by binding arrow keys to moving between words, not chars.
     http://misaka.org
   </description>
-  <depends>com.intellij.modules.lang</depends>
   <extensions defaultExtensionNs="com.intellij">
     <bundledKeymap file="misaka-network-default.xml"/>
   </extensions>

@@ -38,6 +38,10 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="ShowNpmScripts">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
