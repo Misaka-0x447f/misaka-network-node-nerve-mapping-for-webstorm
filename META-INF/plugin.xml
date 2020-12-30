@@ -2,6 +2,10 @@
   <name>Misaka Network Node Nerve Mapping for Webstorm</name>
   <id>org.misaka.plugins.webstorm-keymap</id>
   <version>1.1.0</version>
+  <change-notes>
+    New Keymap:
+    [Alt + ;] Reformat Code
+  </change-notes>
   <idea-version since-build="191"/>
   <vendor>447f.misaka</vendor>
   <category>Keymap</category>
